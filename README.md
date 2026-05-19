@@ -31,6 +31,8 @@ Receiver specifications:
 
 Using the formulas above, calculate the receiver sensitivity.
 
+<img width="897" height="1280" alt="image" src="https://github.com/user-attachments/assets/31d7bff3-63ab-4069-8ae1-fc6c1c078606" />
+
 ---
 
 ## Layout
@@ -59,6 +61,8 @@ Steps:
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f5fb16d3-3ac4-488d-96f9-b94f2305e412" />
+
 ---
 
 ## Report
@@ -71,3 +75,6 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Result
+
+Hence the sensitivity of a PIN photodiode-based optical receiver by calculating the minimum received power necessary to achieve a given Q factor is found and the simulation results is compared with those obtained analytically.
